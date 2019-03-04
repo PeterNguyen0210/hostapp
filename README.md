@@ -1,3 +1,6 @@
+- Server:
+  kamtest.az.kamooni.com
+  kamcomtest.az.kamooni.com
 - Acount test or just create a new one:
   backingthepackers@gmail.com
   123
