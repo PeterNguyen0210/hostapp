@@ -1,6 +1,5 @@
-<strong>Platforms:</strong>
-- Android
-- iOS
-- UWP (Universal Windows Platform) [Temporarily not included]
-
-<em>* UWP supports Windows 10 mobile and desktop applications.</em>
+- Acount test or just create a new one:
+  backingthepackers@gmail.com
+  123
+  baoptlse@gmail.com
+  123123123
